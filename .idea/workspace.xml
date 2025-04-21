@@ -4,42 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="566d9ab3-8dbf-4aad-bc98-9a09b71bac3f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/puxinxiaolin/config/BoundSql.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/puxinxiaolin/config/XMLConfigBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/puxinxiaolin/config/XMLMapperBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/puxinxiaolin/executor/Executor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/puxinxiaolin/executor/SimpleExecutor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/puxinxiaolin/io/Resources.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/puxinxiaolin/pojo/Configuration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/puxinxiaolin/pojo/MappedStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/puxinxiaolin/sqlSession/DefaultSqlSession.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/puxinxiaolin/sqlSession/DefaultSqlSessionFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/puxinxiaolin/sqlSession/SqlSession.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/puxinxiaolin/sqlSession/SqlSessionFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/puxinxiaolin/sqlSession/SqlSessionFactoryBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/puxinxiaolin/utils/GenericTokenParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/puxinxiaolin/utils/ParameterMapping.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/puxinxiaolin/utils/ParameterMappingTokenHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/puxinxiaolin/utils/TokenHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/puxinxiaolin/config/BoundSql.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/puxinxiaolin/config/XMLConfigBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/puxinxiaolin/config/XMLMapperBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/puxinxiaolin/executor/Executor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/puxinxiaolin/executor/SimpleExecutor.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/puxinxiaolin/io/Resources.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/puxinxiaolin/pojo/Configuration.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/puxinxiaolin/pojo/MappedStatement.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/puxinxiaolin/sqlSession/DefaultSqlSession.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/puxinxiaolin/sqlSession/DefaultSqlSessionFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/puxinxiaolin/sqlSession/SqlSession.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/puxinxiaolin/sqlSession/SqlSessionFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/puxinxiaolin/sqlSession/SqlSessionFactoryBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/puxinxiaolin/utils/GenericTokenParser.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/puxinxiaolin/utils/ParameterMapping.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/puxinxiaolin/utils/ParameterMappingTokenHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/puxinxiaolin/utils/TokenHandler.class" afterDir="false" />
+    <list default="true" id="2d3a655e-c7fb-49c4-9b85-51c59927bc63" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,18 +16,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "the01333"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;the01333&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/the01333/IPersistent.git",
-    "accountId": "68e3c6ba-649f-4c61-99ba-7220628225e9"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/the01333/IPersistent.git&quot;,
+    &quot;accountId&quot;: &quot;68e3c6ba-649f-4c61-99ba-7220628225e9&quot;
   }
-}]]></component>
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -74,9 +41,9 @@
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2w2RprDiGSNtL5jM6VRk3egfS03" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
@@ -86,7 +53,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "Merging main",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "F:/idea/code/ipersisitent",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
